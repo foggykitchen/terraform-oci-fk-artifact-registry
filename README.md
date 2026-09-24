@@ -2,7 +2,7 @@
 
 This repository contains a reusable **Terraform/OpenTofu module** for creating an **Oracle Cloud Infrastructure (OCI) Artifact Registry** repository.
 
-It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/)** and is designed to compose with modules such as **`terraform-oci-fk-devops`**, **`terraform-oci-fk-devops-pipeline`**, and **`terraform-oci-fk-policy`**.
+It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/)** and is designed to compose with modules such as **`terraform-oci-fk-devops`**, **`terraform-oci-fk-devops-pipeline`**, and **`terraform-oci-fk-policy`**.
 
 ---
 
